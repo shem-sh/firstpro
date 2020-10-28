@@ -1,0 +1,357 @@
+.header{
+
+   height: 300px;
+
+
+   /* background-attachment: fixed;*/
+
+	background-color:#DF779E;
+
+
+	
+
+	/*margin-top: 0px;*/
+}
+.header h1{/*dding-left: 500px;*/
+	text-align: center;
+   padding-top: 60px;
+font-size: xx-large;
+font-weight: bold;}
+
+.header p{/*dding-left: 300px;*/
+	text-align: center;
+   padding-top: 35x;
+   font-weight: bold
+}
+
+h2{padding-left: 100px;
+    font-weight: bold;}
+
+.menu {list-style: none;
+			float: right;
+			padding-right: 100px;
+
+
+		}
+
+
+
+
+
+.menu li{display:inline-block;
+          padding: 10px 15px;
+          padding-top: 20px;
+          font-weight: bold;
+         }
+
+.menu li a{color: black;
+			text-decoration: none;}
+
+.menu:hover{
+			color: blue;
+			cursor: pointer;
+			/*text-decoration: underline;*/}
+.menu a.active ,
+.menu a:hover{
+			color: blue;
+			cursor: pointer;
+		border-bottom:1px solid;
+		}
+		
+/*.countenr{
+			width: 1200px;
+			margin: auto;
+			text-align: center;
+		}*/
+		
+/*body{higth:1000px;}*/
+/*  End of style the head  */
+
+/*  start of style the body  */
+
+
+.test img{   height: 500px;
+       width: 1100px;
+     padding-left:120px;
+
+      }
+
+h3{font-size: x-large;
+   font-style: italic;
+   font-weight: bold;
+text-decoration: underline;
+padding-left: 100px;}
+
+   /*.test{background-color: red;
+   }*/
+
+
+
+   .ser img{
+   float: left;
+   	height: 300px;
+   	width: 260px;
+   
+   	margin: 12px;
+   	margin-left: 55px; 
+   /*	padding-left: 100px; */
+}
+.eman{background-color: red;
+height: 200px;}
+
+
+
+/*  end of style the body  */
+
+/* for float:left;*/
+.clearfix{clear: both;}
+
+/*------------start style of login ------*/
+.login{
+	border:1px solid;
+	width: 600px;
+height: 300px;
+	padding: 20px;
+
+	margin: auto;
+	border-radius: 10px;
+
+
+}
+.login input {
+
+	display: block;
+/*margin-bottom:15px;
+margin-left:250px;*/ 
+margin: auto;
+border:none;
+border-bottom:1px solid blue;
+width: 400px;
+
+}
+
+h4{
+	font-size: xx-large;
+	text-decoration: underline;
+	color: blue;
+	/*padding-left:200px;*/
+	text-align: center; 
+}
+label{
+	font-size:x-large;
+	padding-right:300px;}
+	/*color:white;*/
+
+ /*
+}
+div .login{/*background-color:#333366;*/
+	
+
+
+ /* start Other style*/
+
+
+.image img{
+float:left;
+		height:300px; 
+		width:300px;
+		margin-left: 60px;
+		margin-right:78px;
+		margin-top: 40px; }
+
+
+
+.text1 h5 {
+
+float: left;
+font-size: 15px; }
+
+.text1 .a {
+	padding-left: 80px;
+}
+.text1 .b {
+	padding-left: 260px;
+}
+.text1 .c {
+	padding-left: 180px;
+}
+
+.text2 h5{  
+float: left;
+font-size: 15px }
+.text2 .d {
+	margin-left: 80px;
+}
+.text2 .e {
+	margin-left: 220px;
+}
+.text2 .f {
+	margin-left: 180px;
+
+}
+
+.text3 h5{  
+float: left;
+font-size:15px;}
+.text3 .g {
+	margin-left: 70px;
+}
+.text3 .h {
+	margin-left: 170px;
+}
+.text3 .l{
+	margin-left: 200px;
+}
+
+.text4 h5{  
+float: left;
+font-size: 15px;}
+
+.text4 .j {
+	margin-left: 70px;
+}
+.text4 .k {
+	margin-left: 170px;
+}
+.text4 .i {
+	margin-left: 230px;
+}
+
+/*-------end body of other---------*/
+/*--------start select-------*/
+
+.select{
+	border:1px solid blue;
+	
+	margin-left: 300px;
+    margin-right: 70px;
+    padding-left: 100px;
+  width: 600px
+
+}
+
+
+.select legend{
+
+color: blue;
+font-size: large;
+
+
+}
+select{
+	padding: 5px;
+	margin-left: 100px;
+
+	
+	font-size: medium;
+	}
+	
+
+
+
+.last{
+	margin: 15px;
+	height: 250px;
+	border:1px solid;
+}
+
+
+/*--- start command----*/
+.Comandimg img{
+
+	height: 100px;
+	width: 90px;
+	
+	padding-top: 30px;
+	padding-left:580px;
+	
+
+}
+.Command h1{
+	
+	text-align: center; 
+	padding-right: 50px; 
+
+}
+.Command input{
+	display: block;
+ 
+
+margin: auto;
+border-bottom:1px dotted black;
+width: 350px;
+height: 20px;
+padding-left: 80px;
+
+}
+.Command1 input{
+	display: block;
+ 
+
+margin: auto;
+border-bottom:1px dotted black;
+width: 350px;
+height: 40px;
+padding-left: 80px;
+overflow: auto;
+
+}
+/*------END Command-----*/
+
+.last{
+
+	background-color: #eee;
+	height: 350px;
+
+}
+.last img{
+
+	height: 30px;
+	width: 30px;
+	
+	
+
+}
+/*-------start about--------*/
+
+
+.aboutus{
+	width: 800px;
+
+	border-bottom: 1px solid black;
+	margin:auto;
+}
+
+.aboutus h1{
+	text-align: center;
+
+}
+.textus p{
+font-size: x-large;
+padding-left: 40px;
+
+}
+
+.baboutus img{
+	width: 70px;
+	height:70px;
+	padding-left: 140px
+}	
+
+
+footer{
+	text-align: center;
+	background-color: #eee;
+	padding: 4px;
+	margin: 4px;
+
+}
+footer h3{
+	text-align: left;
+
+}
+footer img{
+	height: 66px;
+	width: 60px;
+	padding: 7px;
+}
